@@ -1,0 +1,25 @@
+# Core Packages
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+PyAudio==0.2.13
+
+# GUI & Utilities
+tkinter==0.1.0  # Usually comes with Python
+Pillow==10.3.0
+pygame==2.5.2
+pyautogui==0.9.54
+
+# Web & APIs
+wikipedia==1.4.0
+wolframalpha==5.1.3
+requests==2.32.4
+beautifulsoup4==4.12.3
+
+# System Control
+screen-brightness-control==0.24.2
+speedtest-cli==2.1.3
+pyjokes==0.6.0
+
+# Windows-specific (comment out if not using Windows)
+pypiwin32==223
+pywin32==306
